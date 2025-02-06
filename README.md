@@ -72,18 +72,6 @@ The Efficient File Deduplication System is a Java-based application designed to 
 
 The program will process the user’s selection and display the results.
 
-## Limitations & Future Enhancements
-
-  - **Current Limitation**: Only supports local file storage (no cloud integration).
-
-  - **Future Enhancements**:
-
-     - Add support for cloud storage (Google Drive, AWS S3)
-      
-      - Develop a GUI for a better user experience
-      
-      - Improve performance for extremely large directories
-
 ## Conclusion
 
   This Efficient File Deduplication System provides a robust solution for identifying and managing duplicate files on a local system.
