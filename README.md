@@ -45,8 +45,8 @@ The Efficient File Deduplication System is a Java-based application designed to 
 
   2. Clone or Download the Project
     
-           git clone <repository_link>
-           cd EfficientFileDeduplicationSystem
+           git clone https://github.com/NikhithaReddy8/File-Deduplication-system.git
+           cd FileDuplicationSystem
 
   3. Compile the Java Program
 
